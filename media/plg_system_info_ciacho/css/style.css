@@ -1,0 +1,31 @@
+#panel_cookie{
+}
+#panel_cookie_dol{
+width:100%;
+background-color: rgb(230, 230, 230);
+/*text-align:center;*/
+background: none repeat scroll 0 0 rgba(230, 230, 230, 0.92);
+color: #000;
+border-top:solid 1px #C8C8C8;
+position:fixed;
+bottom:0;
+z-index:999;
+}
+div#schowaj{
+margin: 0 auto;
+text-align:center;
+overflow: hidden;
+width: 98%;
+}
+div.tresc{width:100%; padding:6px 0}
+
+#panel_cookie_dol input{
+margin:0 0 4px 4px !important;
+    font-size:12px !important;;
+height:25px !important;
+    line-height:25px !important;
+}
+div#schowaj p{
+font-size:12px;
+display:inline;
+}
